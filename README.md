@@ -50,3 +50,4 @@ Downloads the specified image file.
 - Add support for more image types.
 - Implement pagination or lazy loading for large number of files.
 
+<img src="chrome_JnhATSXTLk.png" alt="HTML-Ansicht">
