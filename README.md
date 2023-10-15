@@ -1,7 +1,7 @@
 # ESP8266 Image Gallery
 
 <img src="chrome_JnhATSXTLk.png" alt="HTML-Ansicht">
-
+<img src="IMG20231015164128.jpg" alt="Aufbau mit NodeMCU 1.0 (ESP-12E Module) und einem SD-Kartenleser ">
 
 ## Overview
 This example demonstrates how to create a web-based image gallery using ESP8266 and an SD card. The ESP8266 serves an HTML page that lists image files stored on the SD card and allows them to be downloaded.
