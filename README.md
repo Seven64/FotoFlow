@@ -1,5 +1,7 @@
 # ESP8266 Image Gallery
 
+<img src="chrome_JnhATSXTLk.png" alt="HTML-Ansicht">
+
 
 ## Overview
 This example demonstrates how to create a web-based image gallery using ESP8266 and an SD card. The ESP8266 serves an HTML page that lists image files stored on the SD card and allows them to be downloaded.
@@ -50,4 +52,3 @@ Downloads the specified image file.
 - Add support for more image types.
 - Implement pagination or lazy loading for large number of files.
 
-<img src="chrome_JnhATSXTLk.png" alt="HTML-Ansicht">
